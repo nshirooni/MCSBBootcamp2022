@@ -2,20 +2,20 @@
 
 
 Front Team:
-* Ian
-* Matthew
-
-Window-side Team:
-* Jaewook
+* Cameron
 * Manuel
 
+Window-side Team:
+* Nima
+* Matt
+
 Art-side Team:
-* Cameron 
-* Nima 
+* Lorenzo
+* Jaewook 
 
 Back Team:
 * Brady
-* Lorenzo
+* Ian
 
 
 
